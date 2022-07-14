@@ -1,2 +1,1 @@
-Aprender utilização Git
-Testando alteracao
+Projeto para aprendizagem da ferramenta Git
