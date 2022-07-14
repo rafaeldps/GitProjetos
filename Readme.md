@@ -1,2 +1,2 @@
 Aprender utilização Git
-Testando auteração
+Testando alteracao
